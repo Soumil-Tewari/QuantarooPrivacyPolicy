@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantaroo - Account Deletion</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f6f8;
+            color: #333;
+            line-height: 1.7;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            color: #1f2937;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        h2 {
+            color: #374151;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ol, ul {
+            margin-left: 25px;
+            margin-top: 10px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        .email {
+            margin-top: 10px;
+        }
+
+        .email a {
+            color: #2563eb;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .email a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        .notice {
+            background: #eef6ff;
+            border-left: 4px solid #2563eb;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 15px;
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Quantaroo Account Deletion</h1>
+
+        <p>
+            Quantaroo is committed to protecting user privacy and providing users with control over their personal data.
+        </p>
+
+        <div class="notice">
+            Users can permanently delete their account and associated data directly from within the Quantaroo application.
+        </div>
+
+        <h2>How to Delete Your Account</h2>
+
+        <ol>
+            <li>Open the Quantaroo app.</li>
+            <li>Sign in to your account.</li>
+            <li>Navigate to <strong>Settings</strong>.</li>
+            <li>Select <strong>Delete Account</strong>.</li>
+            <li>Confirm the deletion request.</li>
+        </ol>
+
+        <h2>Data Deleted</h2>
+
+        <p>
+            When you delete your account, the following information may be removed:
+        </p>
+
+        <ul>
+            <li>Account information</li>
+            <li>Email address</li>
+            <li>User preferences and settings</li>
+            <li>Associated user-generated data stored by Quantaroo</li>
+        </ul>
+
+        <h2>Data Retention</h2>
+
+        <p>
+            Account deletion requests are processed immediately or within 30 days. Certain information may be retained if required for legal, regulatory, fraud prevention, security, or compliance purposes.
+        </p>
+
+        <h2>Need Assistance?</h2>
+
+        <p>
+            If you encounter any issues while deleting your account, please contact us:
+        </p>
+
+        <p class="email">
+            <a href="mailto:helptechxappsbusiness@gmail.com">
+                helptechxappsbusiness@gmail.com
+            </a>
+        </p>
+
+        <div class="footer">
+            © 2026 Quantaroo. All Rights Reserved.
+        </div>
+
+    </div>
+
+</body>
+</html>
